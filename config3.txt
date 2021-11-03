@@ -1,0 +1,6 @@
+100
+1000
+./cs_sock
+1
+8
+server_logs
